@@ -1,0 +1,1 @@
+/usr/bin/clang++-11 -g -rdynamic CMakeFiles/Prova.dir/main.cpp.o -o Prova  -ljsoncpp 

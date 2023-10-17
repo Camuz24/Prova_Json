@@ -1,0 +1,74 @@
+{
+    "file": {
+      "name": "Davide",
+      "sname": "",
+      "id": "3456",
+      "birth": "",
+      "cd": "",
+      "sex": "",
+      "kg": "",
+      "cm": "",
+      "hz": "40",
+      "pw": "400",
+      "r_stim": {
+        "ch_1": {
+          "lbl": "Quadriceps",
+          "ang_min": "95",
+          "ang_max": "225",
+          "cur_min": "60",
+          "cur_max": "140"
+        },
+        "ch_2": {
+          "lbl": "Gluteus",
+          "ang_min": "135",
+          "ang_max": "265",
+          "cur_min": "60",
+          "cur_max": "120"
+        },
+        "ch_3": {
+          "lbl": "Hamstring",
+          "ang_min": "265",
+          "ang_max": "35",
+          "cur_min": "60",
+          "cur_max": "140"
+        },
+        "ch_4": {
+          "lbl": "Gastrocnemius",
+          "ang_min": "350",
+          "ang_max": "80",
+          "cur_min": "60",
+          "cur_max": "120"
+        }
+      },
+      "l_stim": {
+        "ch_1": {
+          "lbl": "Quadriceps",
+          "ang_min": "95",
+          "ang_max": "225",
+          "cur_min": 60,
+          "cur_max": "140"
+        },
+        "ch_2": {
+          "lbl": "Gluteus",
+          "ang_min": "135",
+          "ang_max": "265",
+          "cur_min": "60",
+          "cur_max": "120"
+        },
+        "ch_3": {
+          "lbl": "Hamstring",
+          "ang_min": "265",
+          "ang_max": "35",
+          "cur_min": "60",
+          "cur_max": "140"
+        },
+        "ch_4": {
+          "lbl": "Gastrocnemius",
+          "ang_min": "350",
+          "ang_max": "80",
+          "cur_min": "60",
+          "cur_max": "120"
+        }
+      }
+    }
+  }

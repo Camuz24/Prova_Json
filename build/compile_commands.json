@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pir/Desktop/Prova_Json/build",
+  "command": "/usr/bin/clang++-11   -g -o CMakeFiles/Prova.dir/main.cpp.o -c /home/pir/Desktop/Prova_Json/main.cpp",
+  "file": "/home/pir/Desktop/Prova_Json/main.cpp"
+}
+]

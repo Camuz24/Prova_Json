@@ -1,0 +1,74 @@
+{
+    "file": {
+      "birth": "19/8/2023",
+      "cd": "19/09/2023",
+      "cm": 172,
+      "hz": 40,
+      "id": "",
+      "kg": 55,
+      "l_stim": {
+        "ch_1": {
+          "ang_max": 225,
+          "ang_min": 90,
+          "cur_max": 140,
+          "cur_min": 40,
+          "lbl": "Quadriceps"
+        },
+        "ch_2": {
+          "ang_max": 265,
+          "ang_min": 135,
+          "cur_max": 120,
+          "cur_min": 60,
+          "lbl": "Gluteus"
+        },
+        "ch_3": {
+          "ang_max": 35,
+          "ang_min": 265,
+          "cur_max": 140,
+          "cur_min": 60,
+          "lbl": "Hamstring"
+        },
+        "ch_4": {
+          "ang_max": 80,
+          "ang_min": 350,
+          "cur_max": 120,
+          "cur_min": 60,
+          "lbl": "Gastrocnemius"
+        }
+      },
+      "name": "Camilla",
+      "pw": 500,
+      "r_stim": {
+        "ch_1": {
+          "ang_max": 225,
+          "ang_min": 95,
+          "cur_max": 140,
+          "cur_min": 60,
+          "lbl": "Quadriceps"
+        },
+        "ch_2": {
+          "ang_max": 265,
+          "ang_min": 135,
+          "cur_max": 120,
+          "cur_min": 60,
+          "lbl": "Gluteus"
+        },
+        "ch_3": {
+          "ang_max": 35,
+          "ang_min": 265,
+          "cur_max": 140,
+          "cur_min": 60,
+          "lbl": "Hamstring"
+        },
+        "ch_4": {
+          "ang_max": 80,
+          "ang_min": 350,
+          "cur_max": 120,
+          "cur_min": 60,
+          "lbl": "Gastrocnemius"
+        }
+      },
+      "sex": "",
+      "sname": "Zanco"
+    }
+  }

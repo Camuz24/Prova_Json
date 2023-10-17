@@ -1,0 +1,36 @@
+{
+    "file": {
+      "name": "Davide",
+      "sname": "Savona",
+      "id": "1234",
+      "birth": "",
+      "cd": "",
+      "sex": "",
+      "kg": "",
+      "cm": "",
+      "hz": "40",
+      "pw": "400",
+      "r_stim": [
+        
+            {
+                {
+                "lbl": "Quadriceps"
+                },
+                {
+                "ang_min": "95"
+                },
+                {
+                "ang_max": "225"
+                },
+                {
+                "cur_min": "60"
+                },
+                {
+                "cur_max": "140"
+                }
+            }
+    ]
+    }
+}
+
+          
